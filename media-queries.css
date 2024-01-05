@@ -1,0 +1,61 @@
+
+@media screen and (max-width:640px) {
+    
+    .navbar{
+        display: block;
+        margin-left: 20%;
+    }
+    .navbar,h1{
+        font-size: 20px;
+        width: 80px;
+    }
+    .list,.btn{
+        margin-top: 20px;
+    }
+    .info{
+        display: block;
+        padding: 0 60px;
+        
+    }
+    .info-1{
+        padding-left: 50px;
+
+    }
+    .image {
+    margin-top: 30px;
+    }
+    .border{
+        margin-left: 80px;
+    }
+    .info-2{
+        font-size: 11px;
+    }
+    .responsive h1{
+        font-size: 40px;
+        padding-left: 60px;
+    }
+    .Project-container{
+         margin-left: 40px;
+         font-size: 18px;
+    }
+    .Project-box{
+        padding: 0 20px;
+    }
+    .head{
+        padding-left: 80px;
+    }
+    footer{
+        display: block;
+        padding: 0 70px;
+    }
+    .Find{
+        padding-left: 50px;
+    }
+    .icon{
+        padding-left: 35px;
+        margin-bottom: 20px;
+    }
+    .from >.btn-2{
+        margin-left: 100px;
+    }
+}
