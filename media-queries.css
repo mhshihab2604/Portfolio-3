@@ -5,7 +5,7 @@
         display: block;
         margin-left: 20%;
     }
-    .navbar,h1{
+    .navbar,.heading{
         font-size: 20px;
         width: 80px;
     }
